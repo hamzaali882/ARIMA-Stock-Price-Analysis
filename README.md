@@ -99,19 +99,21 @@ Forecast Visualization
 ```text
 ARIMA-Stock-Price-Analysis/
 │
-├── ARIMA_Stock_Price_Analysis.ipynb
-│
 ├── documentation/
 │   └── ARIMA_Stock_Price_Analysis_Report.docx
 │
-└── screenshots/
-    ├── acf.png
-    ├── adf_differenced.png
-    ├── adf_original.png
-    ├── differenced_price.png
-    ├── forecast.png
-    ├── historical_price.png
-    └── pacf.png
+├── screenshots/
+│   ├── acf.png
+│   ├── adf_differenced.png
+│   ├── adf_original.png
+│   ├── differenced_price.png
+│   ├── forecast.png
+│   ├── historical_price.png
+│   └── pacf.png
+│
+├── ARIMA_Stock_Price_Analysis.ipynb
+│
+└── README.md
 ```
 
 ## 📌 Conclusion
